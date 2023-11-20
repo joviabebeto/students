@@ -7,7 +7,7 @@ function Index(){
   return(
     <Router>
       <Routes>
-        <Route path="/" element={<Welcome/>}></Route>
+      <Route path="/" element={<Welcome/>}></Route>
         <Route path="/about" element={<About/>}></Route>
 
       </Routes>
