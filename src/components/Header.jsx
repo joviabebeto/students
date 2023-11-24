@@ -24,12 +24,16 @@ function Header() {
             </nav>
             <div className='category'>
                 <ul className='category-links'>
-                    <li><a href="@" className='category-links--link'>Ubuzima</a></li>
-                    <li><a href="@" className='category-links--link'>Politike</a></li>
-                    <li><a href="@" className='category-links--link'>Ubukungu</a></li>
-                    <li><a href="@" className='category-links--link'>Uburezi</a></li>
-                    <li><a href="@" className='category-links--link'>Iyobokamana</a></li>
-                    <li><a href="@" className='category-links--link'>imikino</a></li>
+                <li>
+                        <Link href="@" className="category-links--link">Helth</Link></li>
+                    <li>
+                        <Link href="@" className='category-links--link'>Poltical</Link></li>
+                    <li>
+                    <Link href="@" className='category-links--link'>Development</Link></li>
+                    <li>
+                    <Link href="@" className='category-links--link'>Education </Link></li>
+                    <li><Link href="@" className='category-links--link'>Ethical</Link></li>
+                    <li><Link href="@" className='category-links--link'>Sports</Link></li>
                 </ul>
             </div>
         </>

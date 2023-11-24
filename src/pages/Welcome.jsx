@@ -17,7 +17,7 @@ function Welcome() {
                     <img src='https://images.pexels.com/photos/7622520/pexels-photo-7622520.jpeg?' alt='image' />
                     <p>Phone on time in the teaching</p>
                     <div className="position">
-                        <Button name="Read-More" backgrounds="red" textColor="white" ></Button>
+                        <Button name="Read-More" backgrounds="green" textColor="white" ></Button>
                     </div>
 
                 </div>
@@ -26,7 +26,7 @@ function Welcome() {
                     <img src='https://images.pexels.com/photos/2393789/pexels-photo-2393789.jpeg?' alt='image' />
                     <p>Reading many books its good</p>
                     <div className="position">
-                        <Button name="Read-More" backgrounds="red" textColor="white" ></Button>
+                        <Button name="Read-More" backgrounds="green" textColor="white" ></Button>
                     </div>
                 </div>
 
@@ -34,7 +34,7 @@ function Welcome() {
                     <img src='https://images.pexels.com/photos/7092524/pexels-photo-7092524.jpeg?' alt='image' />
                     <p>coding school</p>
                     <div className="position">
-                        <Button name="Read-More" backgrounds="red" textColor="white" ></Button>
+                        <Button name="Read-More" backgrounds="green" textColor="white" ></Button>
                     </div>
                 </div>
             </Carousel>
